@@ -17,24 +17,24 @@ Nav:
     Home_name: 主页
     is_use_categories : false
     categories_name: 分类
-    is_use_archives : false
-    archives_name: 归档
+    is_use_archives : true
+    archives_name: 文章
 
     #Social
     # for more icons, please see http://fontawesome.io/icons/#brand
     icon:
-        github: https://github.com/miccall
+        github: https://github.com/Shederrii
         # 500px: http://500px.com
 
     pages:
-        简历:
+        关于 :
             link: "/about/"
-        团队 :
-            link: "/group/"
-        图库 :
-            link: "/gallery/"
-        标签:
-            link: "/tag/"
+        # 团队 :
+        #     link: "/group/"
+        # 图库 :
+        #     link: "/gallery/"
+        # 标签:
+        #     link: "/tag/"
         #自定义标签名
         #   link：“路径”
 
@@ -64,7 +64,7 @@ fonts: FZLTCXHJW, "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB"
 # Available value of "use":
 #     duoshuo | disqus | disqus_click | changyan
 comment:
-    use: disqus_click
+    use: false
     shortname: http-miccall-tech
     duoshuo_thread_key_type: path
     duoshuo_embed_js_url: "https://static.duoshuo.com/embed.js"
