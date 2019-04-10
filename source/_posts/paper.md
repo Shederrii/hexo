@@ -1,6 +1,6 @@
 ---
 title: SVM Sentiment Analysis on Movie Reviews—Report
-# thumbnail:  # 略缩图
+thumbnail: /img/demo.jpg # 略缩图
 ---
 As I’ve been a huge movie fan, I often read people’s movie reviews to see others’ opinions on a movie—most of the times I would check if the reviews are positive or negative. However, there were times when people wrote a review that was so long and confusing that it cost me a long time to figure out the person’s attitude. As a result, I was attracted to this special programming project, where I can carry out sentiment analysis to help me figure out the attitudes inside movie reviews.
 

@@ -5,20 +5,20 @@
 # Head info
 head:
     favicon: "/img/logo_miccall.png"
-    keywords: miccall
+    keywords: Yuxuan Wang
     backgroundpic : "img/bg.jpg"
 
 Intro:
-    name: MICCALL
+    name: Yuxuan Wang
     slogan: "Whatever is worth doing is worth doing well <br/> I'll think of you every step of the way"
-    HeadButton: MICCALL
+    HeadButton: Yuxuan Wang
 
 Nav:
-    Home_name: 主页
+    Home_name: Home
     is_use_categories : false
     categories_name: 分类
     is_use_archives : true
-    archives_name: 文章
+    archives_name: Archives
 
     #Social
     # for more icons, please see http://fontawesome.io/icons/#brand
@@ -27,7 +27,7 @@ Nav:
         # 500px: http://500px.com
 
     pages:
-        关于 :
+        About :
             link: "/about/"
         # 团队 :
         #     link: "/group/"
@@ -39,8 +39,8 @@ Nav:
         #   link：“路径”
 
 MainFirst:
-    name: Miccall Metro
-    description: Technical  Artist  of  Games
+    name: Yuxuan Wang
+    description:
     pic_url: /images/me.jpg
     goto_ulr: ""
 
